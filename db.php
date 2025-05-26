@@ -1,0 +1,3 @@
+<?php 
+
+$pdo = new PDO('mysql:host=localhost;dbname=shift_db;charset=utf8', 'root', ''); 
